@@ -1,0 +1,27 @@
+{
+  "name": "data-structure-with-javascript",
+  "version": "1.0.0",
+  "description": "�用 JavaScript 写的数据结构示例",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanisJ/Data-Structure-with-JavaScript.git"
+  },
+  "keywords": [
+    "data",
+    "structure"
+  ],
+  "author": "Yanis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YanisJ/Data-Structure-with-JavaScript/issues"
+  },
+  "homepage": "https://github.com/YanisJ/Data-Structure-with-JavaScript#readme",
+  "devDependencies": {
+    "lite-server":"^2.1.0"
+  }
+}
